@@ -1,5 +1,5 @@
 # Repositorio do desafio de prijeto Git/Github da DIO
-Desafio de projeto sobre git/github
+Repositorio criado para o desafio de projeto.
 
 ##Links uteis
 [Sintaxe Básica Markdonw](https://markdown.net.br/sintaxe-basica/)
